@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A23C384A-75BF-4DB0-B562-D63AA500B445"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "789841C2-09E5-4745-9320-9894A1B5952F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qr-bar-code-scanner/Sources/Features/Tabbar/TabbarViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "showModule(_:animated:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "789841C2-09E5-4745-9320-9894A1B5952F - ecb75499653973e0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "qr_bar_code_scanner.TabbarViewController.showModule(_: Swift.Optional&lt;qr_bar_code_scanner.Presentable&gt;, animated: Swift.Bool) -&gt; ()"
+                  moduleName = "qr-bar-code-scanner.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/beksultannurpejs/Desktop/bar-qr/qr-bar-code-scanner/qr-bar-code-scanner/Sources/Features/Tabbar/TabbarViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82">
+               </Location>
+               <Location
+                  uuid = "789841C2-09E5-4745-9320-9894A1B5952F - 186e6fdd7e952e12"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.UIViewController) -&gt; Swift.Bool in qr_bar_code_scanner.TabbarViewController.showModule(_: Swift.Optional&lt;qr_bar_code_scanner.Presentable&gt;, animated: Swift.Bool) -&gt; ()"
+                  moduleName = "qr-bar-code-scanner.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/beksultannurpejs/Desktop/bar-qr/qr-bar-code-scanner/qr-bar-code-scanner/Sources/Features/Tabbar/TabbarViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "340CB696-0E39-45D4-A5B6-FE9B0735092E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qr-bar-code-scanner/Sources/Features/Tabbar/TabbarViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "showModule(_:animated:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "340CB696-0E39-45D4-A5B6-FE9B0735092E - ecb7549965397326"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "qr_bar_code_scanner.TabbarViewController.showModule(_: Swift.Optional&lt;qr_bar_code_scanner.Presentable&gt;, animated: Swift.Bool) -&gt; ()"
+                  moduleName = "qr-bar-code-scanner.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/beksultannurpejs/Desktop/bar-qr/qr-bar-code-scanner/qr-bar-code-scanner/Sources/Features/Tabbar/TabbarViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84">
+               </Location>
+               <Location
+                  uuid = "340CB696-0E39-45D4-A5B6-FE9B0735092E - ecb7549965397326"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "qr_bar_code_scanner.TabbarViewController.showModule(_: Swift.Optional&lt;qr_bar_code_scanner.Presentable&gt;, animated: Swift.Bool) -&gt; ()"
+                  moduleName = "qr-bar-code-scanner.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/beksultannurpejs/Desktop/bar-qr/qr-bar-code-scanner/qr-bar-code-scanner/Sources/Features/Tabbar/TabbarViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6685A4AA-2E21-4EE5-B20A-155B7B4715F3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qr-bar-code-scanner/Sources/Features/Scanner/Modules/Scanner/View/ScannerView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E06CABF6-3664-452E-9461-5F248B0EADD8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qr-bar-code-scanner/Sources/Features/Scanner/Modules/Scanner/View/ScannerView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "124"
+            endingLineNumber = "124"
+            landmarkName = "checkPermissions()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "65622806-203E-4401-B2B4-DA6E8521B3D5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "qr-bar-code-scanner/Sources/Features/Scanner/Modules/Scanner/View/ScannerView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "123"
+            endingLineNumber = "123"
+            landmarkName = "checkPermissions()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
